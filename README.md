@@ -1,6 +1,6 @@
 # Genify
 To run this project:-
-1. Install ffmpeg for audio processing.
+1. Install ffmpeg for audio processing IF you don't then audio will not get processed but other fil will get processed so its your choice , there wil be no problem in running       the code
 2. Add your details in .env file in backend2 and project(which s frontend folder).
 3. Add your mongodb uri in python/db_store.py file.
 4. Install node modules by npm i command in both folders (backend2 and project).
